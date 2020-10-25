@@ -161,7 +161,7 @@ main()
 			// be scheduled within the same period of the Server while keeping the set of 
 			// tasks schedulable. 
 			if (WCET[i] > WCET[0]) WCET[0]=WCET[i];
-		}	
+		}
 		
     	}
 
